@@ -13,7 +13,7 @@
 #define WIN_HEIGHT	600
 #define DELTA 0.016666667f
 
-#define SUB_DIVISION_LEVEL 1	// 1 to 8  only
+#define SUB_DIVISION_LEVEL 8	// 1 to 8  only
 
 #pragma comment(lib,"user32.lib")
 #pragma comment(lib,"gdi32.lib")
